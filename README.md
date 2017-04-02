@@ -6,6 +6,7 @@ mikutterでこれすきをするツールです。
 
 ## インストール方法
 ```mkdir -p ~/.mikutter/plugin && git clone https://github.com/atnanasi/koresuki.git ~/.mikutter/plugin/koresuki```
+その後、キーボードショートカットを追加すれば完了です。
 
 ## 設定について
 mikutterの設定に「これすき」という項目があるのでそこでやってください。
