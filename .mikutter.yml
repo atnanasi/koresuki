@@ -1,0 +1,10 @@
+---
+slug: :koresuki
+depends:
+  mikutter: 3.5.5
+  plugin: 
+    - command
+version: '1.0'
+author: Atnanasi
+name: koresuki
+description: コレスキー
